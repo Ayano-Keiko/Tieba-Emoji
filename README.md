@@ -41,9 +41,12 @@ ____
 | 影子      | emotion/shadow       |
 | 绿豆蛙     | emotion/ldw          |
 | 十周年     | emotion/10th         |
-
+____
+## 注意
+1. 本仓库中提供的表情包仅提供个人使用，请勿用作商业用途
+2. 仓库中仅提供获取表情包文件请各位前往release 或 [百度网盘](https://pan.baidu.com/s/1orBk4Vk_WXlq6ltMNxNGyg?pwd=wuhw)处自行下载
 ____
 
 ## 申明
 
-该仓库中所有表情的版权归原作者所有
+该仓库中所有表情的版权归百度所有
