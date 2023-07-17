@@ -44,7 +44,7 @@ ____
 ____
 ## 注意
 1. 本仓库中提供的表情包仅提供个人使用，请勿用作商业用途
-2. 仓库中仅提供获取表情包文件请各位前往release 或 [百度网盘](https://pan.baidu.com/s/1orBk4Vk_WXlq6ltMNxNGyg?pwd=wuhw)处自行下载
+2. 仓库中仅提供获取表情包链接请各位前往 [百度网盘](https://pan.baidu.com/s/1orBk4Vk_WXlq6ltMNxNGyg?pwd=wuhw)处自行下载
 ____
 
 ## 申明
