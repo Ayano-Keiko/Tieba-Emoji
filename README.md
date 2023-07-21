@@ -10,9 +10,7 @@ ___
 
 ## 下载途径方法
 
-如需使用表情包，请前往下方百度网盘链接自行下载<br>另外，我也提供了表情包的网址，全部在emotion.json和emotion文件夹<br> 
-
-链接: https://pan.baidu.com/s/1orBk4Vk_WXlq6ltMNxNGyg?pwd=wuhw 提取码: wuhw 复制这段内容后打开百度网盘手机App，操作更方便哦
+如需使用表情包，请自行下载仓库中的emotion.zip<br>另外，我也提供了表情包的网址，全部在emotion.json和emotion文件夹
 
 ____
 
@@ -44,7 +42,7 @@ ____
 ____
 ## 注意
 1. 本仓库中提供的表情包仅提供个人使用，请勿用作商业用途
-2. 仓库中仅提供获取表情包链接请各位前往 [百度网盘](https://pan.baidu.com/s/1orBk4Vk_WXlq6ltMNxNGyg?pwd=wuhw)处自行下载
+2. 如需获取表情包请自行下载emotion.zip
 ____
 
 ## 申明
