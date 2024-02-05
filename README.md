@@ -18,7 +18,7 @@ ____
 
 ## Using
 
-The emotion consists of 19 series, such as "regular" for "默认', "10th" for "十周年". They are in the subdirectory of emotion in emotion.zip file. The table for matching emotion type and the directory is in the below.<br>需要请按照表格查询所需系列的表情包（贴吧经典表情见emotion/regular/image_emoticon\d+.png (Regular Expression))：
+The emotion consists of 19 series, such as "regular" for "默认', "10th" for "十周年". They are in the subdirectory of emotion in emotion.zip file.<br> The table for matching emotion type and the directory is in the below.<br>需要请按照表格查询所需系列的表情包（贴吧经典表情见emotion/regular/image_emoticon\d+.png)：
 
 
 | Emotion Type | the directory（相对路径）        |
