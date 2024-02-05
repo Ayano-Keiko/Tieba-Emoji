@@ -1,24 +1,27 @@
 # Tieba-Emoji
-贴吧全表情包收集
+
+A collection for all emotions in Baidu Tieba(百度贴吧) app
 
 
 ## Getting Started
 
-这是一个收集贴吧常用表情包的仓库，如需使用请自取，同时欢迎大家的反馈
+In this page, you can get regular emotions in Baidu Tieba. Downloading or use them(only personal using) is up to you. And also welcome to pull requests!
  
 ___
 
-## 下载途径方法
+## Download
 
-如需使用表情包，请自行下载仓库中的emotion.zip<br>另外，我也提供了表情包的网址，全部在emotion.json和emotion文件夹
+For how to use these emotions, you can just download emotion.zip<br>At the same time, I also put the the url for images in emotion.json(JSON) or emotion folder(TXT).
+
 
 ____
 
-## 使用方法
+## Using
 
-贴吧表情一共有默认、熊孩子、痒小贱、阿狸等十几种系列，我将其分别存放于emotion下的各级目录中，对应表格如下，需要请按照表格查询所需系列的表情包（贴吧经典表情见emotion/regular/image_emoticon\d+.png)：
+The emotion consists of 19 series, such as "regular" for "默认', "10th" for "十周年". They are in the subdirectory of emotion in emotion.zip file. The table for matching emotion type and the directory is in the below.<br>需要请按照表格查询所需系列的表情包（贴吧经典表情见emotion/regular/image_emoticon\d+.png (Regular Expression))：
 
-| 表情包系列名称 | 所在文件夹目录（相对路径）        |
+
+| Emotion Type | the directory（相对路径）        |
 |:-------:|:--------------------:|
 | 默认      | emotion/regular      |
 | 熊孩子     | emotion/bearchildren |
@@ -40,11 +43,12 @@ ____
 | 绿豆蛙     | emotion/ldw          |
 | 十周年     | emotion/10th         |
 ____
-## 注意
-1. 本仓库中提供的表情包仅提供个人使用，请勿用作商业用途
-2. 如需获取表情包请自行下载emotion.zip
+## Notice
+1. The emotions listed in there are only for personal using. Please do not use it for commercial purposes.
+2. If you want to use these emotion, please download emotion.zip.
 ____
 
-## 申明
+## Statement
 
-该仓库中所有表情的版权归百度所有
+Baidu reserves the right of final interpretation of these emotions.
+
