@@ -1,6 +1,8 @@
 # Tieba-Emoji
 
 A collection for all emotions in Baidu Tieba(百度贴吧) app
+中文版 [zh-CN](README-zh-CN.md)
+英文版 #en
 
 
 ## Getting Started
