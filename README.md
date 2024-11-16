@@ -13,7 +13,7 @@ ___
 
 ## Download
 
-For how to use these emotions, you can just download emotion.zip<br>At the same time, I also put the the url for images in emotion.json(JSON) or emotion folder(TXT).
+Just download emotion.zip for emotion images collections<br>At the same time, I also put the the url for images in emotion.json(JSON) or emotion folder(TXT).
 
 
 ____
