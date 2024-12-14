@@ -10,13 +10,13 @@ ___
 
 ## Download
 
-如想使用表情包，可下载emotion.zip，表情包位于emotion.zip中。所有系列的表情包都在这一压缩包里面<br>另外我也放了图片网址（JSON和TXT）和源码。
+如想使用表情包，可下载压缩包emotion.zip<br>另外我也上传了图片网址（JSON和TXT）和源码。
 
 ____
 
 ## Using
 
-我一共收集了贴吧十几个系列的表情包。表情包位于emotion.zip中，同时我也贴上了表情包对照表，见下表<br>需要请按照表格查询所需系列的表情包（贴吧经典表情见emotion/regular/image_emoticon\d+.png)：
+我一共收集了贴吧十几个系列的表情包，同时我也贴上了表情包对照表，见下表<br>需要请按照表格查询所需系列的表情包（贴吧经典表情见emotion/regular/image_emoticon\d+.png)：
 
 | Emotion Type | the directory（相对路径）  |
 |:------------:|:--------------------:|
