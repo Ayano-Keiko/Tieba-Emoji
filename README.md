@@ -1,6 +1,7 @@
 # Tieba-Emoji
 
 贴吧表情包全收集
+![Display](emoji-cloud.jpeg)
 
 ## Getting Started
 
