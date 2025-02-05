@@ -5,21 +5,19 @@
 
 ## Getting Started
 
-我通过爬虫搜集了贴吧所有系列的表情包，大家如需使用可自取。
-
-___
+I have collected all series of emoticons from [Baidu Tieba](https://tieba.baidu.com/index.html) through web scraping. Feel free to use them if needed.
 
 ## Download
 
-如想使用表情包，可下载压缩包emotion.zip<br>另外我也上传了图片网址（JSON和TXT）和源码。
-
-____
+If you want to use the emoticons, you can download the compressed file ***emotion.zip***.<br>
+Additionally, I have also uploaded the image URLs (in JSON and TXT formats) and the source code.<br>
 
 ## Using
 
-我一共收集了贴吧十几个系列的表情包，同时我也贴上了表情包对照表，见下表<br>需要请按照表格查询所需系列的表情包（贴吧经典表情见emotion/regular/image_emoticon\d+.png)：
+I have collected emoticons from more than ten different Tieba series. Additionally, I have provided an emoticon reference table below.<br>
+If you need a specific series, please refer to the table to find the corresponding emoticons. For example, Classic Tieba emoticons can be found at: ***emotion/regular/image_emoticon\d+.png***, I use Regular Expression form to represent path<br>
 
-| Emotion Type | the directory（相对路径）  |
+| Emotion Type | the directory  |
 |:------------:|:--------------------:|
 | 默认           | emotion/regular      |
 | 熊孩子          | emotion/bearchildren |
@@ -41,10 +39,8 @@ ____
 | 绿豆蛙          | emotion/ldw          |
 | 十周年          | emotion/10th         |
 
-____
-
 ## Notice
 
-1. 上述表情包仅供个人使用，请勿将其用于商业用途。
-2. 如想要使用表情包，请自行下载。
+1. The above emoticons are for personal use only. Please do not use them for commercial purposes.
+2. If you want to use the emoticons, please download them yourself.
 
