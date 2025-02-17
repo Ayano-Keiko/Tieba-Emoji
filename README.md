@@ -9,7 +9,7 @@ I have collected all series of emoticons from [Baidu Tieba](https://tieba.baidu.
 
 ## Download
 
-If you want to use the emoticons, you can download the compressed file ***emotion.zip***.<br>
+If you want to use the emoticons, you can download the compressed file in ***emotion*** folder.<br>
 Additionally, I have also uploaded the image URLs (in JSON and TXT formats) and the source code.<br>
 
 ## Using
