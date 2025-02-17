@@ -5,7 +5,7 @@
 
 ## Getting Started
 
-I have collected all series of emoticons from [Baidu Tieba](https://tieba.baidu.com/index.html) through web scraping. Feel free to use them if needed.
+All series of emoticons collected from [Baidu Tieba](https://tieba.baidu.com/index.html). Feel free to use them if needed.
 
 ## Download
 
