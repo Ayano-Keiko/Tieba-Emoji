@@ -1,6 +1,7 @@
 # Tieba-Emoji
 
-贴吧表情包全收集
+贴吧表情包全收集<br/>
+The emoticons of Baidu Tieba have long been considered a classic representation of an entire generation. Emotions like Funny are used by many perple, even outside Tieba. The project collects and  acquires all emotions in Tieba Web Version.<br>
 ![Display](emoji-cloud.jpeg)
 
 ## Getting Started
