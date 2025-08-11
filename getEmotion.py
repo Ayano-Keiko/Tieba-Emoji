@@ -42,7 +42,6 @@ class TiebaEmotion:
             # url = 'https://tb2.bdstatic.com/tb/editor/images/face/i_f{}.png'.format(i)
             url = 'https://tb2.bdstatic.com/tb/editor/images/face/i_f{}.gif'.format(i)
             fname = os.path.join(second_dir, url.split('/')[-1])
-            print(url, fname)
 
             try:
                 response = request.Request(url=url, headers=HEADERS)
